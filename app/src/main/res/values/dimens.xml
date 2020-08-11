@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="auto_left">40dp</dimen>
+    <dimen name="pw_left">14dp</dimen>
+    <dimen name="id_left">34dp</dimen>
+    <dimen name="login_top">110dp</dimen>
+    <dimen name="member_left">16dp</dimen>
+
+</resources>
